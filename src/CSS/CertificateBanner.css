@@ -1,0 +1,74 @@
+.gradient {
+  border-radius: 15px;
+  background: linear-gradient(140deg, #166754 0%, #215d4f 30.73%, #00ffca 100%);
+}
+
+.Certificatefont {
+  color: #fff;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 50px;
+}
+
+.CertificateSubtitle {
+  color: #fff;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 30px; /* 150% */
+}
+
+.selectCoursefont {
+  color: #000;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 26px; /* 162.5% */
+}
+
+.dropdownfont {
+  border-radius: 5px;
+  border: 2px solid rgba(0, 0, 0, 0.52);
+  opacity: 0.30000001192092896;
+  background: #fff;
+}
+
+.Coursefont {
+  color: #318c78;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 30px; /* 125% */
+}
+
+.courseContainer {
+  border-radius: 10px;
+  border: 1.5px solid #cb8461;
+}
+
+.courseSubFont {
+  color: #cb8461;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 30px; /* 166.667% */
+}
+
+.courseDate {
+  color: #000;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 20px; /* 166.667% */
+  opacity: 0.30000001192092896;
+}
+
+.viewMoreFont {
+  color: #fff;
+  text-align: center;
+  font-size: 15.408px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 38.52px; /* 250% */
+}

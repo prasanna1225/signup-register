@@ -1,0 +1,122 @@
+body{
+    background-color: #215D4F;
+    font-family:Poppins, sans-serif;
+    font-weight: 400;
+   
+  
+  }
+  
+  .card-body{
+  width:1300px;
+  height:700px;
+  margin: 20px 40px 40px 40px;
+  }
+  .img-style{
+    width:400px;
+    height:400px;
+    margin: 90px;
+  }
+  
+  .right-part{
+    text-align: center;
+    padding:30px;
+  }
+  
+  .right-side h3{
+    font-weight: 600;
+    color:#215D4F;
+  }
+  .my-link {
+    color: #215D4F;
+    font-family: Poppins;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    text-decoration: none;
+  }
+  
+  
+  
+  .form{
+  width: 400px;
+  height: 50px;
+  margin: 20px;
+  }
+  .social-img{
+    width: 20px;
+    height: 20px;
+  }
+  .social-btn{
+    width: 400px;
+    height: 50px;
+    margin: 5px;
+  }
+  .signup-button{
+    padding: 5px 130px;
+    text-align: center;
+    background-color: #215D4F;
+    width: 400px;
+  height: 50px;
+  }
+  .check-box{
+    font-size: 16px;
+    text-align: center;
+    width: 400px;
+    
+  }
+  
+  
+  
+  @media screen and (max-width: 768px) {
+   
+    .card-body {
+      width: 44rem;
+      height: 74rem;
+    }
+    .img-style{
+      width:350px;
+      height:350px;
+      margin-left:20%;
+    }
+    
+  }
+  
+  @media screen and (max-width: 576px) {
+  
+    .card-body {
+      width: 27rem;
+      height:70rem;
+      margin: auto;
+    }
+    .img-style{
+      width:300px;
+      height:300px;
+      margin-left: 15%;
+    }
+    .form{
+      width: 350px;
+      height: 40px;
+      
+      }
+      .signup-button{
+      width: 350px;
+      height: 40px;
+      
+      }
+      .check-box{
+        font-size: 12px;
+        width:300px;
+      }
+      .social-btn{
+        width: 350px;
+        height: 40px;
+   
+      }
+  }
+  
+  
+  
+  
+  
+  
+  

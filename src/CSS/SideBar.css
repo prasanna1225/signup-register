@@ -1,0 +1,18 @@
+.decoration-white{
+    color: white;
+}
+.decoration-yellow{
+    color: #CB8461;
+}
+.decoration-green{
+    color: #215D4F;
+}
+.decoration-grey{
+    background-color: #D9D9D9;
+}
+.decoration-grey2{
+    color:rgba(0, 0, 0, 0.20);
+}
+.bg-green{
+    background-color: rgba(33, 93, 79, 0.2);
+}

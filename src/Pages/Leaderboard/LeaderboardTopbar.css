@@ -1,0 +1,154 @@
+.gradient {
+    border-radius: 15px;
+    background: linear-gradient(140deg, #166754 0%, #215d4f 30.73%, #00ffca 100%);
+  }
+  
+  .Certificatefont {
+    color: #fff;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 50px;
+    margin-top: 20px;
+  }
+  
+  .CertificateSubtitle1 {
+    color: #eeeded;
+    font-size: 15px;
+    font-style: normal;
+    /* font-weight: 400; */
+    line-height: 30px; /* 150% */
+    margin-top: 75px;
+  }
+  
+  .Certificatesubheading{
+    color: #fff;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 50px;
+    margin-top: 80px;
+  }
+
+  .row {
+    display: flex;
+    align-items: flex-start; /* Align items at the top of the flex container */
+    margin-top: 20px;
+}
+
+.column {
+    flex: 1; /* Equal width for both columns */
+    margin-right: 20px; /* Add some spacing between columns */
+}
+
+  .CertificateLineItems{
+    color: #fff;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 25px;
+    margin-top: 80px;
+  }
+
+  .column:last-child {
+    margin-right: 20px; /* You can adjust the value to your preference */
+    margin-left: 150px;
+}
+
+  .CertificateLineItems ul {
+    list-style-type: disc; /* Display bullet points */
+    margin-left: 30px; /* Add left margin for the bullet points */
+    white-space: nowrap; /* Prevent line breaks within the list items */
+}
+
+
+  .selectCoursefont {
+    color: #000;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 26px; /* 162.5% */
+  }
+  
+  .dropdownfont {
+    border-radius: 5px;
+    border: 2px solid rgba(0, 0, 0, 0.52);
+    opacity: 0.30000001192092896;
+    background: #fff;
+  }
+  
+  .Coursefont {
+    color: #318c78;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 30px; /* 125% */
+  }
+  
+  .courseContainer {
+    border-radius: 10px;
+    border: 1.5px solid #cb8461;
+  }
+  
+  .courseSubFont {
+    color: #cb8461;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px; /* 166.667% */
+  }
+  
+  .courseDate {
+    color: #000;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 20px; /* 166.667% */
+    opacity: 0.30000001192092896;
+  }
+  
+  .viewMoreFont {
+    color: #fff;
+    text-align: center;
+    font-size: 15.408px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 38.52px; /* 250% */
+  }
+
+  .heading_container {
+    display: flex;
+    margin-bottom: 1px;
+    margin-top: 25px;
+    margin-left: 0px;
+ }
+  
+ .from_heading {
+    font-size: 20px;
+    font-weight: 600;
+    color: #000;
+    margin-bottom: 5px;
+ }
+
+ .buttons_container {
+    margin-top: 20px;
+    margin-left: 0px;
+ }
+
+ .join_button {
+    font-size: 16px;
+    font-weight: 500;
+    padding: 5px 15px;
+    color: #43766f;
+    background-color: white;
+    border: 1px solid rgb(156, 155, 155);
+    border-radius: 5px;
+    margin: 10px;
+    cursor: pointer;
+    outline: none;
+}
+
+.selected {
+    background-color: #215D4F;
+    color: white;
+}

@@ -1,0 +1,9 @@
+.banner {
+  border-radius: 15px;
+  background: linear-gradient(
+    140deg,
+    #45776b 0%,
+    rgba(64, 129, 114, 0.98) 7.29%,
+    rgba(0, 255, 202, 0.7) 100%
+  );
+}
